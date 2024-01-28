@@ -64,7 +64,7 @@ export default function Component() {
   {`Casas rurales`}
 </Text>
   <Text sx={{"fontSize": "1em", "width": "100%"}}>
-  {`Voluptatum quos magnam, accusamus placeat vitae quis eius vero animi inventore voluptates ab architecto, sapiente reprehenderit dolore cupiditate praesentium adipisci atque repudiandae libero porro, tenetur vitae quis molestias fugiat non odit modi. Delectus eos impedit, itaque quia iure cumque atque excepturi ratione eveniet et culpa, minus deserunt hic modi nobis quia illo deleniti blanditiis, atque dolore autem deleniti optio et pariatur, officia laborum eos doloribus distinctio recusandae molestiae nostrum error iste eveniet. Doloremque quam repellendus exercitationem iure veritatis dolor, nihil sint similique dolorum, quos tenetur maiores nesciunt vero sequi et incidunt harum voluptate excepturi sed, illo animi magni commodi? Dolorem rem officiis, quos quo velit perspiciatis placeat est quaerat quidem voluptates, dignissimos ex iusto a voluptate?`}
+  {`In laboriosam veniam accusantium voluptas velit quaerat amet, animi consequatur molestiae explicabo blanditiis facilis est fuga laudantium officiis eaque, facere recusandae similique dolore ipsa eos temporibus sunt, autem esse deleniti nobis pariatur exercitationem ducimus aut repellat obcaecati, earum sit velit molestiae cupiditate maxime explicabo at fuga possimus voluptate repudiandae? Praesentium quasi et, vel alias totam adipisci nulla aliquam labore ipsam distinctio perspiciatis, similique dolor molestiae placeat recusandae laudantium facere totam vel ipsa animi? Culpa aspernatur aperiam laboriosam eligendi maxime est doloribus consectetur soluta, vel vero exercitationem, consectetur maxime corrupti, doloribus ullam assumenda velit?`}
 </Text>
 </Box>
   <Box sx={{"width": "100%", "borderStyle": "solid", "borderWidth": "5px", "marginTop": "50px", "paddingTop": "40px", "paddingLeft": "20px", "paddingBottom": "40px", "borderRadius": "50px 0px", "bg": "#D3FFAC", "borderColor": "#79A24A"}}>
@@ -73,7 +73,7 @@ export default function Component() {
   {`Camping`}
 </Text>
   <Text sx={{"fontSize": "1em", "width": "100%"}}>
-  {`Ipsam iure ducimus quo sunt officiis esse voluptatibus debitis repudiandae itaque, ad quia odio quo. Est unde ipsa facilis aliquam aut optio esse ullam, consequuntur tempore voluptatibus odit in facilis, unde ex impedit, inventore iure quis laudantium enim veniam dolorem? Dicta fugit tempore exercitationem perferendis accusantium accusamus voluptate debitis fuga ut aliquid, at hic soluta consequatur, temporibus quisquam ducimus nulla nostrum suscipit adipisci. Dolorum rem soluta et placeat, atque aperiam quasi quibusdam dolorum, aliquid tempora obcaecati consectetur.`}
+  {`Officiis pariatur odio officia nihil labore hic reprehenderit doloremque laborum tenetur, architecto consequuntur consectetur, nam blanditiis excepturi, dolore ab reprehenderit. Ratione facere delectus ducimus aperiam voluptates veritatis praesentium saepe cupiditate, sunt eaque quis beatae impedit vel perferendis quia ipsum, quia porro autem aut ipsa excepturi, velit unde illo expedita sunt corrupti nihil suscipit libero a voluptatum? Voluptatibus dolore placeat magnam magni quod veritatis, eius quam nam illo, provident quam commodi facere eius iste error nesciunt, aspernatur fuga asperiores soluta totam dolore aliquid nostrum pariatur? Dolore dolor quia modi eius porro corporis voluptatibus a, animi eligendi ipsum iure saepe est ipsam magni at.`}
 </Text>
 </Box>
   <Box sx={{"width": "100%", "borderStyle": "solid", "borderWidth": "5px", "marginTop": "50px", "paddingTop": "40px", "paddingLeft": "20px", "paddingBottom": "40px", "borderRadius": "50px 0px", "bg": "#B8E3FF", "borderColor": "#0C356F"}}>
@@ -82,7 +82,7 @@ export default function Component() {
   {`Hotel`}
 </Text>
   <Text sx={{"fontSize": "1em", "width": "100%"}}>
-  {`Accusamus aliquid placeat sit deserunt, ut minima voluptatum quia nisi laboriosam adipisci iste modi quibusdam, blanditiis quasi esse, dicta officiis eos amet provident autem numquam quos, quos voluptatem tempora facilis numquam rem ducimus ad id repellendus omnis? Possimus laborum repudiandae architecto quia neque eius obcaecati similique, blanditiis provident totam est tenetur ab architecto eum alias, quos velit ut incidunt, culpa atque nisi consequuntur eius, vero nemo veniam molestias dolores corrupti officiis similique ipsa sit praesentium quasi. Pariatur tempora totam quaerat deserunt ipsa vero sed, vel repellat molestiae libero alias sint nihil unde cum, aut ab quod saepe deleniti reiciendis accusamus ad in?`}
+  {`Reprehenderit tempora quae ad omnis iure magni impedit obcaecati ipsa itaque totam, adipisci dolorum harum illum quam beatae quae ut, sed quasi tempora illum, dicta reprehenderit delectus nulla dolor reiciendis tenetur accusamus, beatae modi sapiente. Ullam animi in quo ducimus commodi sed labore, commodi fugit officia consequatur sapiente dignissimos. Soluta corporis inventore placeat distinctio aspernatur eligendi commodi eos facere vel, aliquid a optio reiciendis quasi assumenda deserunt laboriosam nihil animi, maxime incidunt fugit ipsa minus sed dolor corrupti inventore, similique incidunt aliquam, veritatis nisi qui molestiae iure quae quibusdam alias nulla architecto maiores?`}
 </Text>
 </Box>
 </Box>
@@ -96,7 +96,7 @@ export default function Component() {
   <ChakraImage src={`start.png`} sx={{"width": "20px", "height": "auto"}}/>
 </HStack>
   <Text sx={{"color": "#A3A3A3"}}>
-  {`Accusamus provident assumenda laborum dolorum tempora maxime soluta quo ut velit iure, quo qui facere sequi voluptatibus laborum rerum ut hic quod, non at eos commodi ratione qui, deleniti iure nulla mollitia temporibus atque accusantium consequatur doloremque adipisci sit, cupiditate nisi deserunt. Eaque cum blanditiis tempore laudantium sequi numquam vitae commodi saepe perspiciatis omnis, eaque nobis perferendis vero nisi, doloremque soluta placeat illo, ratione eius fuga veniam ad laborum, voluptas incidunt exercitationem impedit sint odit officiis dolores. Numquam possimus animi voluptatum, fuga iusto atque suscipit nam repudiandae facilis, maiores nihil ipsum, pariatur vitae repellat eos tempora saepe dolorum?`}
+  {`Ducimus aspernatur fugiat, voluptate asperiores aut veniam recusandae unde? Deserunt sapiente similique est eligendi vel, cupiditate ipsam deserunt optio nostrum delectus minima velit, rerum aperiam architecto, impedit eos aliquid quibusdam possimus necessitatibus cupiditate ab, est reiciendis ullam porro doloremque similique natus eius. Laboriosam porro vitae corrupti rerum possimus doloribus, iure iste harum modi, iste labore consectetur reprehenderit facilis explicabo minus aliquam quam pariatur, iure excepturi voluptates quaerat illo quod ullam id sed nisi similique placeat? Iusto facilis perferendis repellat placeat voluptas magnam quos corrupti laboriosam ratione tempore, similique voluptatem illum ex earum, in nam porro nobis, veniam harum laboriosam animi omnis.`}
 </Text>
 </Box>
   <Box sx={{"paddingTop": "20px"}}>
@@ -105,7 +105,7 @@ export default function Component() {
   <ChakraImage src={`start.png`} sx={{"width": "20px", "height": "auto"}}/>
 </HStack>
   <Text sx={{"color": "#A3A3A3"}}>
-  {`Est debitis soluta ipsa dicta nam, saepe mollitia perferendis magni velit ipsa adipisci, quia placeat magnam harum eaque voluptates labore asperiores mollitia repellat maiores fugiat. Unde sint laboriosam labore, aperiam delectus amet architecto deleniti modi nihil hic debitis itaque voluptatem aut, reprehenderit at maxime, cumque quia ipsum eum minima ex? Quis eos aliquid suscipit nihil eius incidunt dolorum, ratione impedit libero eius reprehenderit delectus saepe qui ut omnis nesciunt, enim repellat deleniti minus soluta alias illum asperiores sed voluptates.`}
+  {`Obcaecati delectus ipsa in nemo beatae rem animi tenetur sint cumque et, nobis odit nulla temporibus nisi, velit pariatur molestias iure dignissimos labore earum reiciendis consectetur, consectetur laborum voluptatem impedit corrupti ducimus provident? Porro doloremque vitae libero provident exercitationem, aut totam tempore voluptatum harum porro temporibus ea atque, dolorem provident minus commodi? Numquam nulla reiciendis ut nihil corporis repellat animi fugiat tempore porro, ratione reprehenderit enim explicabo, quaerat commodi magni dolor eligendi voluptatum dolore incidunt vel animi possimus, hic dicta error dignissimos veritatis a deserunt ad magni.`}
 </Text>
 </Box>
 </Box>
